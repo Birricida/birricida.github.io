@@ -44,16 +44,17 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
+#  - icon:	untappd
+#    url:	https://
+#    desc:	A
 #    share_url:
 #    share_title:
 #    share_link:
+
+  - icon:	beer
+    url:	https://untappd.com/user/Birricida
+    desc:	Sígueme en Untappd
+    share_url:
+    share_title:
+    share_link:
