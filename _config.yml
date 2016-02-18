@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Crónicas de un Birricidio"
 description: > # this means to ignore newlines until "email:"
    A Jekyll theme - Medium inspired
 
@@ -12,7 +12,7 @@ email: a-mail@mail.mail
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/Home.jpg"
 
 name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
