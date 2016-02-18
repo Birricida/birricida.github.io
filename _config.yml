@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Crónicas de un Birricidio"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   There is no such thing as a bad beer. It's that some taste better than others. Billy Carter
 
 email: a-mail@mail.mail
 #blog logo
@@ -14,16 +14,16 @@ logo: "/assets/images/logo.jpg"
 # blog cover
 cover: "/assets/images/Home.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Crónicas de un Birricidio'
+author: 'El Birricida'
+author_image: "/assets/images/logo.jpg"
 
 paginate:	5
 
 url: "http://birricida.github.io/" # the base hostname & protocol for your site
 baseurl: "http://birricida.github.io/"
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@birricida'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -31,8 +31,8 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+    url:	https://twitter.com/birricida
+    desc: Sigueme en twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
