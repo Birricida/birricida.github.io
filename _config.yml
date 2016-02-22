@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Crónicas de un Birricidio"
 description: > # this means to ignore newlines until "email:"
-   "There is no such thing as a bad beer. It's that some taste better than others" Billy Carter
+   "There is no such thing as a bad beer. </br>It's that some taste better than others" Billy Carter
 
 email: birricida@outlook.com
 #blog logo
