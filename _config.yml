@@ -20,7 +20,8 @@ author_image: "/assets/images/logo.jpg"
 
 paginate:	5
 
-url: "http://birricida.github.io/" # the base hostname & protocol for your site
+url: "http://birricida.github.io/" 
+# the base hostname & protocol for your site
 baseurl: "http://birricida.github.io/"
 #used to display twitter cards
 twitter_handle: '@birricida'
